@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyChatRobot</string>
+	<string name="chat">聊天</string>
+	
+	<string name="reply_start">你好，我是棒棒哒图灵机器人</string>
+	<string name="reply_unkown">不好意思，我不知道你在说什么</string>
+	<string name="reply_clear">好的，帮您清空了</string>
+	<string name="reply_change_person">你好，我是%1$s，这个声音可以吗</string>
+
+</resources>
